@@ -1,7 +1,7 @@
 ## **A-Tool**
 
-A tool to calculate and display various sales metrics.
-The main function of the current version is visualization of product popularity and input price throughout a period to make better decisions of when to stock up on that product.
+A tool to calculate and display various sales metrics. 
+The main function of the current version is visualization of product popularity and input price throughout a period to make better decisions of when to stock up on that product. The data is taken from .csv files and saved in .csv. The graphs can be saved in .png.
 
 Created on pure Python with Tkinter and Pandas.
 
