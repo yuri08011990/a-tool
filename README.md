@@ -27,3 +27,8 @@ ______________
 How to run:
 
 LS to script directory and type python atool_v0.1.py in the console
+
+______________
+
+<img src="https://drive.google.com/uc?export=view&id=15sytiB1LtuM9ix5AwEGY8GuzLoJQB0Ob" width=500>
+<img src="https://drive.google.com/uc?export=view&id=1Gb5tZILrnFb3NZLuxpVxGVrnhsQeVbCp" width=500>
